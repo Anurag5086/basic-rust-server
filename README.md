@@ -1,1 +1,1 @@
-# basic-rust-server
+# Rust Dino Api
